@@ -1,0 +1,23 @@
+footer .footer-cinemas{padding:20px 60px;background:#181818}
+footer .footer-cinemas .ours{font-size:2em;color:#d61023;padding:20px 0;font-weight:bold}
+footer .footer-cinemas ul{margin:0;padding:0;-webkit-column-width:150px;-moz-column-width:150px;-o-column-width:150px;-ms-column-width:150px;column-width:150px}
+footer .footer-cinemas ul li{display:block;color:#727575}footer .footer-cinemas ul li.state{font-weight:bold;color:#fff}
+footer .footer-cinemas ul li.cine.last{margin-bottom:10px}footer .footer-cinemas .state{font-weight:bold;color:#fff;clear:both}
+footer .footer-cinemas .cines{margin:0;padding:0;color:#727575}
+footer .footer-cinemas .cines .cine{width:150px;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;display:inline-block;float:left;margin-right:10px}
+footer .footer-note{padding:20px 60px;height:60px;font-weight:bold}
+footer .footer-note>div{display:table-cell;vertical-align:middle}
+footer .footer-note>div.copy>span{margin:0 30px}footer .footer-note>div.footer-links{color:#fff}
+footer .footer-note .logo{height:60px}footer .footer-note span{color:#727575}
+footer .footer-gallery-wrapper{display:inline-block;color:white}
+footer .footer-gallery-wrapper .footer-gallery{background:#353535;padding:3px 10px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;display:table;height:56px}
+footer .footer-gallery-wrapper .footer-gallery>div{display:table-cell;vertical-align:middle}
+footer .footer-gallery-wrapper .footer-gallery>div img{margin:3px 10px;display:block}
+footer .footer-image-wrapper.fixed{width:33%;background:#181818;padding:20px 60px}
+footer .footer-content{color:#fff;background:#181818;width:33%;padding:20px 20px}
+footer .footer-content .footer-title{font-size:2em;color:#d61023;padding:20px 0;font-weight:bold}
+
+.ads{padding:20px 60px;background:#dfdfdf;text-align:center;height:auto;}
+.suka{margin-left:0%; /*height: 250px; width: 50px;*/}
+.suka2{margin-left:0%; /*height: 250px; width: 50px;*/}
+.time{padding:10px 5px;display:inline-block;width:80px;}
